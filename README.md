@@ -42,3 +42,5 @@ It answers following business questions:
 - How much capital is locked in unsold inventory per vendor and which vendors contribute the most to it?
 
   ### 4. 📉 Power BI Dashboard
+
+![image](https://github.com/user-attachments/assets/07a32b68-783a-4a5a-abd8-19811b13974a)

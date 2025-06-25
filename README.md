@@ -44,3 +44,5 @@ It answers following business questions:
   ### 4. 📉 Power BI Dashboard
 
 ![image](https://github.com/user-attachments/assets/07a32b68-783a-4a5a-abd8-19811b13974a)
+
+![image](https://github.com/user-attachments/assets/ed666aa2-e286-442e-93f3-b567e1f03bf8)
